@@ -1,0 +1,8 @@
+gradio
+albumentations
+torch
+torchvision
+grad-cam
+matplotlib
+Pillow
+numpy
